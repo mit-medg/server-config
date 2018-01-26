@@ -15,3 +15,13 @@ bash Miniconda3-latest-Linux-x86_64.sh -b -p /usr/local/miniconda3
 ```
 
 CUDA should be installed to `/usr/local/cuda-$VERSION` (e.g. `/usr/local/cuda-8.0`) using the deb files distributed by NVIDIA. If it has not been created, a symlink should be added for `/usr/local/cuda -> /usr/local/cuda-$VERSION`. Afterward, CUDNN headers should be added to the installation.
+
+The following packages should be installed using `apt`:
+- `python-pip`
+
+The following packages should be installed to the system Python installation with `pip`:
+- `pip`
+- `virtualenv`
+- `virtualenvwrapper`
+- `pipenv`
+
