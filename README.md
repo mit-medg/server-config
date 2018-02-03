@@ -18,10 +18,13 @@ CUDA should be installed to `/usr/local/cuda-$VERSION` (e.g. `/usr/local/cuda-8.
 
 The following packages should be installed using `apt`:
 - `python-pip`
+- `htop`
+- `iotop`
+- `ncdu`
 
 The following packages should be installed to the system Python installation with `pip`:
 - `pip`
 - `virtualenv`
 - `virtualenvwrapper`
 - `pipenv`
-
+- `glances[gpu]`
