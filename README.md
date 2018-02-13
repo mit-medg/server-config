@@ -21,6 +21,7 @@ The following packages should be installed using `apt`:
 - `htop`
 - `iotop`
 - `ncdu`
+- `parallel`
 
 The following packages should be installed to the system Python installation with `pip`:
 - `pip`
