@@ -1,0 +1,2 @@
+role=groupserver
+autofs=true
