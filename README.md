@@ -22,6 +22,8 @@ The following packages should be installed using `apt`:
 - `iotop`
 - `ncdu`
 - `parallel`
+- `multitail`
+- `liquidprompt`
 
 The following packages should be installed to the system Python installation with `pip`:
 - `pip`
