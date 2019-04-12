@@ -24,6 +24,7 @@ The following packages should be installed using `apt`:
 - `parallel`
 - `multitail`
 - `liquidprompt`
+- `pydf`
 
 The following packages should be installed to the system Python installation with `pip`:
 - `pip`
